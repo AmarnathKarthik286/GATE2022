@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.1.8)  21 FEB 2024 10:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.1.8)  22 FEB 2024 12:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1032,22 +1032,21 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <9> on input line 2.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 2.
-)
+) (./tables/routhtable.tex)
 <figs/gate2022.png, id=4, 462.528pt x 320.1561pt>
 File: figs/gate2022.png Graphic file (type png)
 <use figs/gate2022.png>
-Package pdftex.def Info: figs/gate2022.png  used on input line 41.
+Package pdftex.def Info: figs/gate2022.png  used on input line 42.
 (pdftex.def)             Requested size: 232.19843pt x 160.72737pt.
  [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
-
  <./figs/gate2022.png>] (./gate2.aux) ) 
 Here is how much of TeX's memory you used:
- 21195 strings out of 478287
- 448605 string characters out of 5849290
- 697439 words of memory out of 5000000
- 38894 multiletter control sequences out of 15000+600000
+ 21201 strings out of 478287
+ 448742 string characters out of 5849290
+ 700439 words of memory out of 5000000
+ 38897 multiletter control sequences out of 15000+600000
  635116 words of font info for 143 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  117i,11n,120p,409b,261s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1065,7 +1064,7 @@ nts/type1/public/lm/lmr5.pfb></usr/share/texmf/fonts/type1/public/lm/lmr6.pfb><
 ublic/lm/lmr9.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/shar
 e/texmf/fonts/type1/public/lm/lmsy6.pfb></usr/share/texmf/fonts/type1/public/lm
 /lmsy8.pfb>
-Output written on gate2.pdf (1 page, 273321 bytes).
+Output written on gate2.pdf (1 page, 274744 bytes).
 PDF statistics:
  98 PDF objects out of 1000 (max. 8388607)
  60 compressed objects within 1 object stream
